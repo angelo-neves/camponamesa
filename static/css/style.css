@@ -3403,7 +3403,7 @@ img{
 
 .news-style-one{
 	position:relative;
-	margin-bottom:50px;	
+	margin-bottom:0px;	
 }
 
 .news-style-one .inner-box{
@@ -4829,7 +4829,7 @@ img{
 
 .default-shop-item{
 	position:relative;
-	/*margin-bottom:30px;	*/
+	margin-bottom:30px;	
 }
 
 .default-shop-item .inner-box{
