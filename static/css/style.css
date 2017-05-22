@@ -3282,6 +3282,10 @@ img{
 	margin:0px -11px;
 }
 
+.space-30 {
+	margin-bottom: 30px;
+}
+
 .default-portfolio-item{
 	position:relative;
 	margin-bottom:30px;	
@@ -3313,7 +3317,6 @@ img{
 	display:block;
 	text-align:center;
 	overflow:hidden;
-    margin-bottom: 30px;
 }
 
 .default-portfolio-item .image-box img{
@@ -3403,8 +3406,7 @@ img{
 }
 
 .news-style-one{
-	position:relative;
-	margin-bottom:0px;	
+	position:relative;	
 }
 
 .news-style-one .inner-box{
