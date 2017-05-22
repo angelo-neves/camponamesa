@@ -3313,6 +3313,7 @@ img{
 	display:block;
 	text-align:center;
 	overflow:hidden;
+    margin-bottom: 30px;
 }
 
 .default-portfolio-item .image-box img{
